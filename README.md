@@ -21,8 +21,8 @@ This platform solves the core challenge in Microsoft's C.R.E.A.T.E. competition:
 
 ### 1. **Clone & Setup**
 ```bash
-git clone https://github.com/donnybadamo/CREATE_agents.git
-cd CREATE_agents/content-strategist/content-strategist
+git clone https://github.com/donnybadamo/CREATE_demo.git
+cd CREATE_demo/content-strategist/content-strategist
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
